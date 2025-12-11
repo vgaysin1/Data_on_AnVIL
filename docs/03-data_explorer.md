@@ -23,7 +23,7 @@ The [AnVIL Dataset Catalog](https://anvilproject.org/data) displays key NHGRI da
 
 # AnVIL Data Explorer
 
-The [AnVIL Data Explorer](https://explore.anvilproject.org/datasets) enables faceted searches of open and managed access datasets hosted in AnVIL, making it easier for researchers to find and custom-build cohorts. 
+The AnVIL Data Explorer enables faceted searches of open and managed access datasets hosted in AnVIL, making it easier for researchers to find and custom-build cohorts. 
 
 <img src="03-data_explorer_files/figure-html//1H5onDH7cBLK2m7fCcJ6ZodAAQ3wtJO8tNc2rwptrTPM_g30d935bde8e_0_0.png" alt="Image shows a screenshot of the AnVIL Data Explorer website landing page." width="480" />
 
